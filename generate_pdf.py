@@ -17,7 +17,7 @@ def create_pdf():
     """Create the PDF information request form"""
     
     # Output file path
-    output_path = r"C:\Users\DBTECH AFRICA\Desktop\St Yambio Catholic Website\INFORMATION-REQUEST-FORM.pdf"
+    output_path = r"C:\Users\DBTECH AFRICA\Desktop\St Yambio Catholic Website\INFORMATION-REQUEST-FORM-UPDATED.pdf"
     
     # Create PDF with A4 size
     doc = SimpleDocTemplate(
@@ -110,7 +110,6 @@ def create_pdf():
     This document contains all the information needed from the Catholic Diocese of Tombura-Yambio to proceed with the website redesign project. Please review each section carefully and provide the requested information.
     
     <b>Timeline:</b> Please complete this form within 4 weeks of receipt.
-    <b>Contact:</b> [Project Manager Contact Information]
     <b>Questions:</b> Please contact the project team for clarification on any items.
     """
     story.append(Paragraph(instructions, normal_style))

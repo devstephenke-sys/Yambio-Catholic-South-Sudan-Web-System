@@ -13,7 +13,6 @@
 This document contains all the information needed from the Catholic Diocese of Tombura-Yambio to proceed with the website redesign project. Please review each section carefully and provide the requested information.
 
 **Timeline:** Please complete this form within 4 weeks of receipt.
-**Contact:** [Project Manager Contact Information]
 **Questions:** Please contact the project team for clarification on any items.
 
 ---
